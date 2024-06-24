@@ -1,10 +1,16 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thony376/thony376/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVvMnp2bXgzNHV1YTN3dnR6MjEzZGpsbHdsdGQ0NDd5eWZhYTNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PeOnYlW8AmjcQEc2bZ/giphy.gif"  />
+</div>
 
 ###
 
-<h2 align="left">Olá, me chamo Anthony</h2>
+<h2 align="left">Olá, me chamo Anthony😀</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
 ###
 
@@ -16,17 +22,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c5YWRhazluaXR5Yjg2aG00ODluZ3M5OW5rdmRxamFsenVma2ZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qIdaOZwwr7zfQGXOY/giphy-downsized-large.gif"  />
 </div>
-
-###
-
-<img align="right" height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVvMnp2bXgzNHV1YTN3dnR6MjEzZGpsbHdsdGQ0NDd5eWZhYTNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PeOnYlW8AmjcQEc2bZ/giphy.gif"  />
 
 ###
 
