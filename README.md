@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Olá, eu me Anthony😀</h2>
+<h2 align="left">Olá, eu sou Anthony😀</h2>
 
 ###
 
