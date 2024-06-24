@@ -4,13 +4,13 @@
 
 ###
 
-<h2 align="left">Olá, eu sou Anthony😀</h2>
+<div align="center">
+  <img height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k2dDFubjVxOWtwdHMzaDU4dTFqeGIzanB1a3cwaGtvaGc2NGdrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h5C2kiESzaypGjXtTY/giphy-downsized-large.gif"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+<h2 align="left">Olá, me chamo Anthony😀</h2>
 
 ###
 
@@ -21,21 +21,21 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c5YWRhazluaXR5Yjg2aG00ODluZ3M5OW5rdmRxamFsenVma2ZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qIdaOZwwr7zfQGXOY/giphy-downsized-large.gif"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/21l4yie4ygigmfnf6t2rgk66i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21l4yie4ygigmfnf6t2rgk66i&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21l4yie4ygigmfnf6t2rgk66i&count=3" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
